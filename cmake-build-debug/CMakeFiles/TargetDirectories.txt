@@ -1,0 +1,3 @@
+D:/My Faculty/Third Level/Semester 2/Graphic/Project/GraphicPackage/cmake-build-debug/CMakeFiles/GraphicPackage.dir
+D:/My Faculty/Third Level/Semester 2/Graphic/Project/GraphicPackage/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Faculty/Third Level/Semester 2/Graphic/Project/GraphicPackage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
