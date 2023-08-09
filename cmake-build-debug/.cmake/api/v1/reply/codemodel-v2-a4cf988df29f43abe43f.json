@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "GraphicPackage::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GraphicPackage-Debug-378fecbdfd08dc6b8752.json",
+					"jsonFile" : "target-GraphicPackage-Debug-11bd313a7640a94320ab.json",
 					"name" : "GraphicPackage",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/My Faculty/Third Level/Semester 2/Graphic/Project/GraphicPackage/cmake-build-debug",
-		"source" : "D:/My Faculty/Third Level/Semester 2/Graphic/Project/GraphicPackage"
+		"build" : "D:/My Home/My Works/Github Projects/Third Level/Semseter 2/Graphic/2D-Graphics-Toolkit/cmake-build-debug",
+		"source" : "D:/My Home/My Works/Github Projects/Third Level/Semseter 2/Graphic/2D-Graphics-Toolkit"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }

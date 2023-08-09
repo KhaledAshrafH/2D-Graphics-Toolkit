@@ -1,4 +1,4 @@
-# Install script for directory: D:/My Faculty/Third Level/Semester 2/Graphic/Project/GraphicPackage
+# Install script for directory: D:/My Home/My Works/Github Projects/Third Level/Semseter 2/Graphic/2D-Graphics-Toolkit
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/My Faculty/Third Level/Semester 2/Graphic/Project/GraphicPackage/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/My Home/My Works/Github Projects/Third Level/Semseter 2/Graphic/2D-Graphics-Toolkit/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
