@@ -1,3 +1,0 @@
-D:/My Home/My Works/Github Projects/Third Level/Semseter 2/Graphic/2D-Graphics-Toolkit/cmake-build-debug/CMakeFiles/GraphicPackage.dir
-D:/My Home/My Works/Github Projects/Third Level/Semseter 2/Graphic/2D-Graphics-Toolkit/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/My Home/My Works/Github Projects/Third Level/Semseter 2/Graphic/2D-Graphics-Toolkit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
